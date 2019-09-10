@@ -17,4 +17,6 @@ Then add something in the left panel:
 }
 ```
 
+Explanation: https://blog.bitsrc.io/so-what-the-heck-is-graphql-49c27cb83754
+
 ![](https://github.com/anyexinglu/graphql-server-example/blob/master/WechatIMG5553.png)
